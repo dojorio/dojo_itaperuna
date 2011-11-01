@@ -9,10 +9,10 @@ Problema: [FizzBuzz](http://dojopuzzles.com/problemas/exibe/fizzbuzz/)
 Retrospectiva:
 
 "fizz", :)
-* Participação grande por parte da galera;
-* A galera aprendeu Python, #win.
+*   Participação grande por parte da galera;
+*   A galera aprendeu Python, #win.
 
 "buzz", :(
-* Não teve lanche, :@.
+*   Não teve lanche, :@.
 
 ![retrospectiva](~/dojo_itaperuna/2010.10.27.fizzbuzz/retrospectiva.png "Retrospectiva")
