@@ -15,4 +15,4 @@ Retrospectiva:
 "buzz", :(
 * Não teve lanche, :@.
 
-![retrospectiva](retrospectiva.png)
+![retrospectiva](~/dojo_itaperuna/2010.10.27.fizzbuzz/retrospectiva.png "Retrospectiva")
