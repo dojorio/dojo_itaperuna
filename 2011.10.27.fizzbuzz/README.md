@@ -18,4 +18,4 @@ Retrospectiva:
 *   Não teve lanche, :@.
 
 ![retrospectiva][id]
-[id]: ~/dojo_itaperuna/2010.10.27.fizzbuzz/retrospectiva.png
+[id]: retrospectiva.png
