@@ -1,10 +1,13 @@
 Dojo Itaperuna [5]
 =================
 
-Primeiro coding dojo de 2012, resolvemos voltar com o fizzbuzz para "alinhar as mentes" com o ruby.
+Primeiro coding dojo de 2012
 ------------------------------------------------------------------------------------
 
 Problema: [FizzBuzz](http://dojopuzzles.com/problemas/exibe/fizzbuzz/)
+resolvemos voltar com o fizzbuzz para "alinhar as mentes" com o ruby.
+
+------------------------------------------------------------------------------------
 
 Retrospectiva:
 
@@ -23,4 +26,4 @@ Negativos :(
 
 
 ![retrospectiva][id]
-[id]: ./dojo_itaperuna.png
+[id]: ./dojo_itaperuna.jpg
