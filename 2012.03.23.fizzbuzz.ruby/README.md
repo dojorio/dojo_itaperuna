@@ -25,5 +25,4 @@ Negativos :(
 *	Pilotos não pronunciaram sempre antes de programar
 
 
-![retrospectiva][id]
-[id]: ./dojo_itaperuna.jpg
+
